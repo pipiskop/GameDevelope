@@ -33,7 +33,7 @@ public class PlayerController : MonoBehaviour
     protected float yaw;
     protected float pitch;
 
-    public float gravity = 9.81f;
+    private float gravity = 9.81f;
     private float verticalVelocity = 0;
     public float jumpForce = 8f;
     private bool isJumping = false;

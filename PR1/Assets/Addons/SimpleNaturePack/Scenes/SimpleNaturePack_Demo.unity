@@ -11283,8 +11283,7 @@ MonoBehaviour:
   ustalost: 10
   MoveSpeed: 1.5
   SprintSpeed: 5
-  gravity: 9.81
-  jumpForce: 2.17
+  jumpForce: 2
 --- !u!143 &1780193282
 CharacterController:
   m_ObjectHideFlags: 0
