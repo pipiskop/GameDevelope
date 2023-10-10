@@ -367,9 +367,10 @@
 "Assets/Addons/ZRNAssets/PQAssets/Query-Chan/Scripts/QueryAnimationController.cs"
 "Assets/Addons/ZRNAssets/PQAssets/Query-Chan/Scripts/QueryEmotionalController.cs"
 "Assets/Addons/ZRNAssets/PQAssets/Query-Chan/Scripts/QuerySoundController.cs"
-"Assets/Scripts/Animations.cs"
-"Assets/Scripts/Player.cs"
-"Assets/Scripts/YMouseControl.cs"
+"Assets/Scripts/objects/HealthPickup.cs"
+"Assets/Scripts/player/Animations.cs"
+"Assets/Scripts/player/MouseForCamera.cs"
+"Assets/Scripts/player/Player.cs"
 -langversion:9.0
 
 /deterministic
